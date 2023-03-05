@@ -1,16 +1,17 @@
-Artificial Intelligence
-Machine Learning
-Data Science
-Data Engineering
-Data Visualization
+* ChatGPT
+ArtificialIntelligence
+MachineLearning
+DataScience
+DataEngineering
+DataVisualization
 Security
-Cloud Computing
-Virtual Reality
-Augmented Reality
-Deep Learning
+CloudComputing
+VirtualReality
+AugmentedReality
+DeepLearning
 IOT
 UI/UX
-Mobile Development
+MobileDevelopment
 Blockchain
-Quantum Computing
+QuantumComputing
 Robotics
