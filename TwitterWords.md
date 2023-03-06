@@ -1,4 +1,4 @@
-* ChatGPT
+* AutomatingTwitterBot
 ArtificialIntelligence
 MachineLearning
 DataScience
