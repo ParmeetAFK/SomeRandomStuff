@@ -1,4 +1,4 @@
-* Will AI take my Job
+* WillSmith
 ArtificialIntelligence
 MachineLearning
 DataScience
