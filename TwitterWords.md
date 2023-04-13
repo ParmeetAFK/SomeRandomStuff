@@ -1,4 +1,4 @@
-* WillSmith
+
 ArtificialIntelligence
 MachineLearning
 DataScience
