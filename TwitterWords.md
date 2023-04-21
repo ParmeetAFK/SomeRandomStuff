@@ -1,17 +1,1 @@
 
-ArtificialIntelligence
-MachineLearning
-DataScience
-DataEngineering
-DataVisualization
-Security
-CloudComputing
-VirtualReality
-AugmentedReality
-DeepLearning
-IOT
-UI/UX
-MobileDevelopment
-Blockchain
-QuantumComputing
-Robotics
